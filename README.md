@@ -8,4 +8,4 @@ analytics, mathematics and statistics. We are here to change
 that. Learn at your own pace, or join a training program
 today.
 
-[link]<https://edu.t-bio.info/>
+(link)<https://edu.t-bio.info/>
